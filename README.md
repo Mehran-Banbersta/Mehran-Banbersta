@@ -29,7 +29,9 @@ understand the importance of both coding and user experience design.
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-### 📺 Latest Project
+#
+
+### 📲 Latest Project
 <!--
 **Mehran-Banbersta/Mehran-Banbersta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
