@@ -1,5 +1,3 @@
-
-
 # 🧗 Mehran Banbersta
 
  `full-stack WEb Developer` 
