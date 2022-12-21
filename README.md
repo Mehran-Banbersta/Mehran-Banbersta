@@ -10,6 +10,8 @@ I enjoy building interactive websites using HTML, CSS, SCSS, and Javascript and 
 motivated to learn more programming languages. Since I studied Industrial Design, I
 understand the importance of both coding and user experience design.
 
+---
+
 ### 🧰 Languages and Tools
 
 
