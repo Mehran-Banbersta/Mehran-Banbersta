@@ -38,6 +38,8 @@ Let's craft something amazing together! 🚀✨
 #
 
 ### 📲 Latest Project
+#GymWhiz App
+`https://c44-group-b-214f45ea3c28.herokuapp.com/`
 <!--
 **Mehran-Banbersta/Mehran-Banbersta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
