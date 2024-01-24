@@ -1,14 +1,16 @@
 # 🧗 Mehran Banbersta
 
- `full-stack WEb Developer` 
- 
- I am open to participate as an intern in front-end development projects wherein I can
-both add value to your business and increase my programming skills. I am interested in
-computer software. Since I was 15 years old, I started to assemble my own PC’s. In the
-recent years, I have focused on programming (front-end development).
-I enjoy building interactive websites using HTML, CSS, SCSS, and Javascript and I am
-motivated to learn more programming languages. Since I studied Industrial Design, I
-understand the importance of both coding and user experience design.
+`🚀 Junior Full-Stack Developer | Front-End Enthusiast`
+
+Hey there! 👋 I'm Mehran, a passionate junior full-stack developer with a primary focus on front-end enchantment. My toolbox is filled with HTML, CSS, and JavaScript, and I love weaving magic with frameworks like React.js and Vue.js to create responsive and visually stunning web experiences. 💻✨
+
+With a background in Industrial Design, I understand the dance between coding and user experience design. Whether it's React.js for powerful UIs or Vue.js for simplicity, I bring ideas to life with both style and substance.
+
+While I've explored the backend realms using Node.js, Express.js, MongoDB, and MySQL, my heart truly belongs to front-end development. I'm on a mission to design web interfaces that not only work seamlessly but also captivate and delight users.
+
+Currently on the lookout for exciting opportunities to contribute my front-end skills to projects and teams. I believe in the power of collaboration and am eager to grow in a company setting.
+
+Let's craft something amazing together! 🚀✨
 
 ---
 
@@ -27,6 +29,10 @@ understand the importance of both coding and user experience design.
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<img align="left" alt="Vue.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <br />
 
 #
