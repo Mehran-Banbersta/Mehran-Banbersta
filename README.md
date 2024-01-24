@@ -38,8 +38,11 @@ Let's craft something amazing together! 🚀✨
 #
 
 ### 📲 Latest Project
-#GymWhiz App
-`https://c44-group-b-214f45ea3c28.herokuapp.com/`
+## GymWhiz App 
+Welcome to my GymWhiz App!
+GymWhiz App helps users in the Netherlands find and join different types of gyms like yoga, fitness, crossfit, and powerlifting. Users can sign up, create profiles, save favorite gyms, and check their BMI. The app also provides workout tips and weight loss advice. It works well on both computers and mobile phones, making it easy for users to access and use it wherever they are
+[Visit our GymWhiz App](https://c44-group-b-214f45ea3c28.herokuapp.com/)
+
 <!--
 **Mehran-Banbersta/Mehran-Banbersta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
