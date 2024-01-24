@@ -14,7 +14,7 @@ Let's craft something amazing together! 🚀✨
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -37,8 +37,8 @@ Let's craft something amazing together! 🚀✨
 
 #
 
-### 📲 Latest Project
-## GymWhiz App 
+## 📲 Latest Project
+### GymWhiz App 
 Welcome to my GymWhiz App!
 GymWhiz App helps users in the Netherlands find and join different types of gyms like yoga, fitness, crossfit, and powerlifting. Users can sign up, create profiles, save favorite gyms, and check their BMI. The app also provides workout tips and weight loss advice. It works well on both computers and mobile phones, making it easy for users to access and use it wherever they are
 [Visit our GymWhiz App](https://c44-group-b-214f45ea3c28.herokuapp.com/)
